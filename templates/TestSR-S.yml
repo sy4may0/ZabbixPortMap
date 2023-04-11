@@ -1,0 +1,7 @@
+---
+hostname: TestSR-S
+devicename: Fujitsu SR-S724TC1
+interface_port: 24
+uplink_port: 2
+line_card: 1
+ifname_format: '{ifnumber}'

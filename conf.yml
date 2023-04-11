@@ -1,0 +1,4 @@
+---
+zabbix_server: "http://192.168.19.181:8080/"
+zabbix_user: "Admin"
+zabbix_password: "zabbix"
